@@ -1,4 +1,4 @@
-# ICML-2017
+# Beyond Filters: Compact Feature Map for Portable Deep Model
 ICML paper ID29: demo code
 
 Title: Beyond Filters: Compact Feature Map for Portable Deep Model
