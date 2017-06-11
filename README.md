@@ -1,5 +1,4 @@
-# Beyond Filters: Compact Feature Map for Portable Deep Model
-ICML paper ID29: demo code
+# RedCNN
 
 Title: Beyond Filters: Compact Feature Map for Portable Deep Model
 Authors: Yunhe Wang, Chang Xu, Chao Xu, Dacheng Tao
